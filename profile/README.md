@@ -3,8 +3,9 @@
 A repository for research in Nuclear Physics at CNU!
 
 Please find:
+* Our repos in the "Repositories" tab
 * A list of references below
-* Pposters, talks and other research presentations [in this Google drive folder](https://drive.google.com/drive/folders/1BWwwZptw6c7BQ-n_Xrf1Cb8SgVdB0OOj?usp=sharing) 
+* Posters, talks and other research presentations [in this Google drive folder](https://drive.google.com/drive/folders/1BWwwZptw6c7BQ-n_Xrf1Cb8SgVdB0OOj?usp=sharing) 
 
 # References 
 
